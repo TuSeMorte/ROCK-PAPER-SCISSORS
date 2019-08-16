@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}  
+button{
+    border-color: #007bffb7;
+    border-radius: 8px;
+    border-style: solid;
+    color: #fff;
+    font-size: 24px;
+    background: linear-gradient(#007bff, #0073ee);
+    padding: 5px;
+}
+button:hover{
+    background: linear-gradient(#007bffe5, #0073eee0);
+
+}
+#Directions {
+    background: linear-gradient(#f8f4b6, #fff891);
+    border-style: solid;
+    border-radius: 8px;
+    display: block;
+    font-size: 16px;
+    padding: 10px;
+    text-align: center;
+}
+
+.results{
+    background: linear-gradient(#570601, #c40a00);
+    border-color: #000;
+    border-style: solid;
+    border-radius: 8px;
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.buttons{
+    padding:10px;
+    text-align: center;
+}
